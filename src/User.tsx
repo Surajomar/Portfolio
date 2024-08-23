@@ -20,7 +20,7 @@ const ProjectInfo = [
         title: "Flick Pick AI - A Movie Recommendation Application",
         live: false,
         image: "movie.png",
-        technologies: ["HTML", "CSS", "Python", "Flask"],
+        technologies: ["HTML", "CSS", "Python", "Flask","Machine Learning"],
         desc: "Created a personalized movie recommendation system by analyzing the TMDB dataset, demonstrating expertise in content filtering and data-driven insights for improving user experiences. Implemented content filtering techniques like user-based and item-based filtering to enhance user experience and provide accurate movie recommendations.",
         github: "https://github.com/suraj5621/Flick-Pick-AI-"
     },
