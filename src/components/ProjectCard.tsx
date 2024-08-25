@@ -20,12 +20,12 @@ function ProjectCard(props:any) {
         />
       </Card.Section>
 
-      {/* <Group justify="space-between" mt="xs" mb="xs">
+       <Group justify="space-between" mt="xs" mb="xs">
         <Text className='!text-2xl !font-bold !text-white' fw={500}>{props.title}</Text>
-        {
+        {/*{
           props.live ? <Badge variant='outline' color="blue" rightSection={<Indicator className='px-1' color="red" size={6} processing></Indicator>}>Live </Badge> : <Badge variant='outline' color="gray" rightSection={<Indicator className='px-1' color="green" size={6} processing></Indicator>}>Coming Soon </Badge>
-        }
-      </Group> */}
+        } */}
+      </Group> 
 
       <Group  mb="xs">
       {
