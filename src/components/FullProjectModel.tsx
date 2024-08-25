@@ -36,7 +36,7 @@ function FullProjectModel(props: any) {
             />
           </Modal.Header>
           <Modal.Body className="!bg-bgColor !border-2 !border-primaryColor !border-t-0 !rounded-bl-3xl !rounded-br-3xl pt-4">
-            Modal content
+         
 
             <Image
           className=' !shadow-[0_0_5px_0_#64FFDA] '
